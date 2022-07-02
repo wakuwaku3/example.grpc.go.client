@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	cat "github.com/wakuwaku3/example.grpc.proto"
+	cat "github.com/wakuwaku3/example.grpc.go.api/cat"
 	"google.golang.org/grpc"
 )
 
